@@ -1,16 +1,16 @@
-# [Your Project Title Here]
+# Offer and Effect
 
 ## Repository Link
 
-[https://github.com/your_username/your_project_name]
+[https://github.com/mominali12/Offer-and-Effect]
 
 ## Description
 
-[Short project description here. Briefly summarize the problem you are trying to solve and the approach you're taking.]
+Using Causal Machine Learning to Separate Marketing Signal from Targeting Noise
 
 ### Task Type
 
-[Image Classification / Chatbot / Regression / Clustering / Other]
+Regression / Clustering / Other 
 
 ### Results Summary
 
